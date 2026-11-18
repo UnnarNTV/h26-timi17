@@ -13,7 +13,7 @@ function App() {
         <Card title="Context" text="Deilir gögnum án prop drilling" />
         <Card
           title="Custom hooks"
-          text="ENdurnýta lógíina á milli componenta"
+          text="Endurnýta lógíina á milli componenta"
         />
       </main>
     </div>
